@@ -21,13 +21,13 @@ manifest.json
 ```
 {
     "manifest_version": 3,
-    "name": "remover blur passeidireto",
+    "name": "remove passeidireto blur",
     "description": "remove passeidireto.com blur in the documents",
     "version": "1.0",
     "content_scripts":[
         {
             "matches": ["https://www.passeidireto.com/*"],
-            "js": ["codigo.js"]
+            "js": ["code.js"]
         }
     ]
   }
@@ -41,7 +41,7 @@ const regex = /.*RegisterBanner.*/; // regular expression that matches any strin
 const element = document.querySelectorAll("*");  //select all elements on the page. These elements are stored in an array.
 
 element.forEach((element) => { //used to iterate over each element of this array
-  const classes = elemento.classList; //gets its classes using the classList method.
+  const classes = element.classList; //gets its classes using the classList method.
   if (classes) {
     classes.forEach((classe) => { //iterates over each class using another forEach
       if (regex.test(classe)) { //if the current class matches the regular expression defined in the first line, then delete
