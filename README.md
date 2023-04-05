@@ -9,7 +9,7 @@ remove blur in passeidireto.com documents
 <br>
 <br>
 
-you can just download the project and jump to the last step
+you can just download the project and jump to the last step / https://github.com/rafaelsorgato/remove-passeidireto-blur/tree/main/removeblur
 <br>
 
 <h3> 1) Create a folder and 2 files inside it: "manifest.json" and "code.js"</h3>
