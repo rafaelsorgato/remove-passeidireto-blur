@@ -60,4 +60,4 @@ element2.removeAttribute("style"); //remove the element style (here the blur is 
 <h3>2) Last Step</h3>
 <br>
 <img src="https://github.com/rafaelsorgato/remove-passeidireto-blur/blob/main/images/extension.png">
-follow the steps in the image and load the folder that contains the extension, that's it, the extension is already working
+follow the steps in the image and load the folder that contains the extension (removeblur), that's it, the extension is already working
