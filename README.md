@@ -1,8 +1,15 @@
 # remove-passeidireto-blur
-remove blur in passeidireto.com documents
-<br>
-<br>
+# Remover borrão passei direto
 
+remove blur in passeidireto.com documents<br>
+remover borrão dos documentos de passeidireto.com
+<br><br>
+Document for educational purposes<br>
+Documento com propósitos educacionais
+
+
+<br>
+<br>
 
 <img style="width:450px" src="https://github.com/rafaelsorgato/remove-passeidireto-blur/blob/main/images/com.png"><img style="width:450px" src="https://github.com/rafaelsorgato/remove-passeidireto-blur/blob/main/images/sem.png">
 
